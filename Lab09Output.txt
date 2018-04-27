@@ -1,0 +1,10 @@
+The Sum is: 108
+
+The Avg is: 8.0
+
+The Max is: 20
+
+The Min is: 2
+
+Standard Deviation is: 5.461989869391313
+
